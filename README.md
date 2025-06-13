@@ -1,62 +1,82 @@
-<h1 align="center">Salut, moi c'est Aurel 👋</h1>
+<!-- README.md -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=Développeur+Fullstack;Passionné+par+l'Open+Source;Amoureux+du+code+propre+et+des+performances" alt="Typing SVG" />
+<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 30px 0; border-radius: 12px;">
+  <h1 style="color: #fff; font-size: 3em; font-family: 'Fira Code', monospace;">
+    👋 Hello, je suis Aurel
+  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=600&lines=Fullstack+Developer;UI+Craftsman+with+TailwindCSS;React+Lover+%7C+Backend+Surgeon;Code+%3D+Art+%2B+Logic" alt="Typing Animation" />
 </div>
 
 ---
 
-## 👨‍💻 À propos de moi
+## 🧠 À propos de moi
 
-- 🎯 Développeur Fullstack passionné
-- 🔁 J’adore transformer les idées en solutions techniques
-- 📚 Toujours en train d’apprendre et d’expérimenter
-
----
-
-## 🚀 Technologies & Outils
-
-### Langages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
-</p>
-
-### Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="Laravel" />
-</p>
-
-### Bases de données
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-</p>
+> 💡 Je suis un développeur fullstack créatif, toujours à la recherche de solutions performantes, accessibles et élégantes.  
+> 💻 J’aime transformer des idées complexes en expériences web intuitives.  
+> 🔥 Mon moteur : l’élégance du code, la puissance des outils modernes et le plaisir de créer.
 
 ---
 
-## 📈 Stats GitHub
+## 🧰 Mes outils
+
+### 🖍️ Langages
+<p>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 🛠️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+### 🗃️ Bases de données
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 🔮 Mes Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ton-username&theme=github-dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ton-username&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ton-username&bg_color=0f2027&color=1fa2ff&line=3a6073&point=fdbb2d&hide_border=true" width="100%" />
 </div>
 
 ---
 
-## ✉️ Me contacter
+## 💬 Let's Connect
 
-<p>
+<p align="center">
   <a href="mailto:aureliuskolani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/tonprofil/](https://www.linkedin.com/in/pag-yendou-christian-aurel-tr%C3%A9sor-kolani-0a93161a7/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pag-yendou-christian-aurel-tr%C3%A9sor-kolani-0a93161a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding animation" />
+</div>
+
+---
+
+<p align="center">
+  <i>“Code is not just code, it’s the poetry of logic.”</i>
 </p>
