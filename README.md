@@ -49,19 +49,6 @@
 
 ---
 
-## 🔮 Mes Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ton-username&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ton-username&bg_color=0f2027&color=1fa2ff&line=3a6073&point=fdbb2d&hide_border=true" width="100%" />
-</div>
-
----
-
 ## 💬 Let's Connect
 
 <p align="center">
